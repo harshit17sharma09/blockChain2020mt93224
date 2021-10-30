@@ -5,7 +5,7 @@ To run this project, install it locally using npm,truffle,ganache,metamask:
 ```
 $ cd ../election
 
-To insall all the dependencies 
+To install all the dependencies 
 
 ```
 $ npm install
